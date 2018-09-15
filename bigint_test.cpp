@@ -1,0 +1,10 @@
+#include <boost/multiprecision/gmp.hpp>
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	boost::multiprecision::mpz_int big_one("2341234712974398127438912739471209348172304718923749182734908127657963174629837412657261384712648127348931273473264512639487129479128348912374891023");
+
+	cout << big_one << endl;
+}
