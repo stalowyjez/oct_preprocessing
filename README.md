@@ -1,3 +1,5 @@
+## Kernelization experiments
+
 In this repository we place our implementation of OCT kernel by S. Kratsch and M. Wahlstrom, from "Representative sets and irrelevant vertices: New tools for kernelization", treated as a preprocessing routine.
 
 It can be compiled by simple `make` command. The GNU MP library is necessary.
